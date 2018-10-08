@@ -19,7 +19,6 @@ COPY . /usr/src/app
 # Make port 4200 available to the world outside this container and port for live reloading
 EXPOSE 4200 49153
 
-
 # Define environment variable
 ENV NAME World
 
